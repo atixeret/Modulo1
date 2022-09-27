@@ -1,0 +1,28 @@
+//poner sello a la edicion del codigo
+git config --global user.name "atixeret"
+
+//configurar email
+git config --global user.email atixeret@gmail.com
+
+// consultar el usuario
+git config user.name
+git config user.email
+
+
+//da la configuracion usuario y correo 
+git config --global -l
+
+//inicia repositorio dentro de la carpeta
+git init
+
+//descargar el codigo
+giy clone https://github.com/atixeret/A1-Frontend-Fundamentals-2020.git
+
+//actualizar el repositorio
+git add. add
+
+//es actualiza la version
+git commit -am "primer comiit"
+
+// actuliza a lka nube
+git push origin master
