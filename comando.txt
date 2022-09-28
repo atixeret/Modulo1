@@ -1,0 +1,128 @@
+    1  git update
+    2  up-update
+    3  git up-update
+    4  git update-git-for-windows 
+    5  git config --global user.name "atixeret"
+    6  git config --global user.email atixeret@gmail.com
+    7  git config --global user.email
+    8  git config --global user.name 
+    9  dir
+   10  cd Desktop/
+   11  dir
+   12  cd modulo1
+   13  cd modulo 1
+   14  dir
+   15  cd Modulo1_git/
+   16  dir
+   17  cd git
+   18  dir
+   19  cd ..
+   20  cd modulo 1
+   21  dir
+   22  cd modulo
+   23  pwd
+   24  cd Desktop/
+   25  cd curso/frontend/
+   26  help
+   27  cd ..
+   28  cd ..
+   29  cd ..
+   30  cd Documents/
+   31  clear
+   32  mkdir matcha
+   33  cd matcha/
+   34  touch index.html
+   35  open "Visual Studio Code"
+   36  open "Visual Studio Code" . 
+   37  open -a "Visual Studio Code" . 
+   38  code .
+   39  git status
+   40  .git
+   41  git
+   42  git status
+   43  got init
+   44  git init
+   45  pwd
+   46  git status
+   47  git add index.html
+   48  git status
+   49  git commit -m "Mi primer commit"
+   50  git status
+   51  git log 
+   52  git branch
+   53  git checkout -b main
+   54  git branch
+   55  git branch -M main
+   56  git branch
+   57  git remote add origin https://github.com/atixeret/matcha.git
+   58  git push -u origin main
+   59  git add index.html
+   60  git commit -m "Mi segundo commit"
+   61  git push  main
+   62  git push origin main
+   63  vim .gitignore
+   64  git add .
+   65  git status
+   66  git chechout main
+   67  git checkout main
+   68  git commit -m "Tercer commit"
+   69  git push origin main
+   70  ls
+   71  ls -a
+   72  vim prueba2.txt
+   73  vim .gitignore
+   74  git status
+   75  vim prueba.txt
+   76  git status
+   77  git log
+   78  git commit --amend -m "Tercer commit q"
+   79  git status
+   80  git log
+   81  git commit --amend -m "Tercer commit"
+   82  git log
+   83  cd ..
+   84  cd ..
+   85  ls
+   86  cd  Desktop/
+   87  ls
+   88  cd Modulo1_git/
+   89  ls
+   90  git init
+   91  git commit -m "first commit"
+   92  git branch -M main
+   93  git branch -M main
+   94  git remote add origin https://github.com/atixeret/Modulo1.git
+   95  git remote add origin https://github.com/atixeret/Modulo1.git
+   96  git push -u origin main
+   97  git remote add origin https://github.com/atixeret/Modulo1.git
+   98  git branch -M main
+   99  git push -u origin main
+  100  git push -u origin https://github.com/atixeret/Modulo1.git
+  101  git remote add origin https://github.com/atixeret/Modulo1.git
+  102  ls
+  103  vim index.html
+  104  git add .
+  105  git add . index.html
+  106  git commit -m "Primer commit"
+  107  git push origin main
+  108  ggitgit git
+  109  sss
+  110  gggggg
+  111  lsdalsjflkashfjksahkjfhaskjfh.,lñdaksdlñkasñldkasñldkasñldkñlaksdlañxss dsfdgffhfbcbvcfbgvfc
+  112  }
+  113  {ñxzflñkslfjkkldjfkldsjkgldjfas
+  114  das
+  115  das
+  116  d
+  117  asd
+  118  git  add .
+  119  history > comando.txt
+  120  vim text
+  121  git mv text text.txt
+  122  ls
+  123  git mv text text.txt
+  124  git mv text text.txt
+  125  git status
+  126  git add .
+  127  git mv text text.txt
+  128  history > comando.txt
